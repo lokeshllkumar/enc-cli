@@ -1,0 +1,5 @@
+{
+    "default_public_key": "keys/public_key.pem",
+    "default_private_key": "keys/private_key.pem",
+    "output_dir": "encrypted_files/"
+}
